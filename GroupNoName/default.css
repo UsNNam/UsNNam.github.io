@@ -314,3 +314,16 @@ table {
     background-color: #4CAF50;
     color: white;
   }
+
+  .image_map_title{
+    font-size: 36px;
+    font-weight: bold;
+    display: block;
+    text-align: center;
+  }
+  .image_map_description{
+    font-size: 24px;
+    display: block;
+    text-align: center;
+    margin: 15px 0;
+  }
