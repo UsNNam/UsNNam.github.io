@@ -320,10 +320,15 @@ table {
     font-weight: bold;
     display: block;
     text-align: center;
+    margin-top: 10px;
   }
   .image_map_description{
     font-size: 24px;
     display: block;
     text-align: center;
     margin: 15px 0;
+  }
+
+  .image_map{
+    margin-bottom: 20px;
   }
