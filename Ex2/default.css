@@ -413,13 +413,14 @@ body{
 
 .logo_signature{
     flex:3;
+    position: relative;
 }
 
 .logo_signature img{
-    height: 60px;
-    position: relative;
+    height: 60px; 
+    position: absolute;
+    right: 10%;
     top: 20px;
-    right: -50px
 }
 
 .copyright{
