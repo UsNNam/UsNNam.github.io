@@ -1,0 +1,21 @@
+.col_left span{
+    display: block;
+    text-align: start;
+}
+
+.col_middle input{
+    width: 100%;
+}
+
+.col_middle{
+    text-align: start;
+}
+
+.col_right{
+    display: block;
+    text-align: start;
+}
+
+#announce{
+    color: red;
+}
